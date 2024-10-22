@@ -6,7 +6,7 @@ import linklab5 from "../img/linklab5.png"
 
 function Linklap(){
     return(
-        <div className="w-full bg-blue-900 py-20 ">
+        <div className="w-full  py-20 ">
             <div className="container mx-auto flex flex-col gap-20">
                 <div className="flex flex-wrap justify-center gap-10">
                     <img className="w-[15%]" src={linklab1} alt="" />
